@@ -1,4 +1,4 @@
-# Introduction
+Rule Based AI
 
 Dibuat oleh:
 + Nama: Alma Riesty Wijayanti
